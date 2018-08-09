@@ -38,7 +38,7 @@
   <artifactId>tomcat7-maven-plugin</artifactId>
   <version>2.2</version>
   <configuration>
-      <url>http://35.227.71.49:8080/manager/text</url>
+      <url>http://104.196.138.50 :8080/manager/text</url>
       <server>TomcatServer</server>
       <path>/WebApp1</path>
   </configuration>
@@ -56,7 +56,7 @@
   <artifactId>tomcat7-maven-plugin</artifactId>
   <version>2.2</version>
   <configuration>
-      <url>http://35.237.0.91:8080/manager/text</url>
+      <url>http://104.196.138.50 :8080/manager/text</url>
       <server>TomcatServer</server>
       <path>/WebApp2</path>
   </configuration>
